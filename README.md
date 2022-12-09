@@ -28,8 +28,6 @@ React+TS are where the majority of my skills lie, but I enjoy learning about new
 
 ## throw-away projects
 
-[vite monorepo](https://github.com/Barbacoa08/vite-monorepo-css-issue): was a minimum repo for showing the Vite team an issue I was encountering. I've kept it alive as a reminder for myself.
-
 [electron example](https://github.com/Barbacoa08/electron-example): I read about Electron and wanted to build a minimal app for my Mac and PC with React tech.
 
 [hackernews with React and Apollo](https://github.com/Barbacoa08/hackernews-react-apollo): GraphQL is absolutely wonderful tech, but I rarely get to play with it in my day job, so I followed this tutorial to gain some more knowledge about it.
