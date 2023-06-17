@@ -10,9 +10,11 @@ React+TS are where the majority of my skills lie, but I enjoy learning about new
 
 ## recent projects
 
-[Fighter Advice](https://github.com/Barbacoa08/fighter-advice) WIP: is an advice site for other amatuer fighters. 
+[Fighter Advice](https://github.com/Barbacoa08/fighter-advice): is an advice site for other amatuer fighters.
 
 [barbajoe](https://github.com/Barbacoa08/barbajoe): is my exploration into a mono-repo with multiple dependancies.
+
+[barbajoe's library stage](https://github.com/Barbacoa08/barbajoe/tree/main/src/apps/lib-staging): a child of the `barbajoe` repo, it is the staging environment for my libraries.
 
 [Cat Emotions](https://github.com/Barbacoa08/cat-emotions): an idea I had about being able to more easily express your emotions.
 
