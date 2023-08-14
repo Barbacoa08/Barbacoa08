@@ -10,6 +10,8 @@ React+TS are where the majority of my skills lie, but I enjoy learning about new
 
 ## recent projects
 
+[Person to Place](https://github.com/barbacoa08/person-to-place/): is a desktop app for keeping track of where people live. I created this due to working for a global company and I couldn't find any other solution that did quite what I wanted. Plus, I wanted an excuse to play with [Tauri](https://tauri.app/).
+
 [Fighter Advice](https://github.com/Barbacoa08/fighter-advice): is an advice site for other amatuer fighters.
 
 [barbajoe](https://github.com/Barbacoa08/barbajoe): is my exploration into a mono-repo with multiple dependancies.
