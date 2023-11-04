@@ -14,9 +14,7 @@ Svelte(Kit), TypeScript, and React are where the majority of my skills lie, but 
 
 Is a desktop app for keeping track of where people live. I created this due to working for a global company and I couldn't find any other solution that did quite what I wanted. Plus, I wanted an excuse to play with [Tauri](https://tauri.app/).
 
-#### Tech Used
-
-[Tauri](https://tauri.app/), Rust, SvelteKit, TypeScript, Vite, CSS, PNPM, Cargo, ESLint, Prettier, JavaScript, ESM, GitHub, GitHub Actions
+_Tech Used_: [Tauri](https://tauri.app/), Rust, SvelteKit, TypeScript, Vite, CSS, PNPM, Cargo, ESLint, Prettier, JavaScript, ESM, GitHub, GitHub Actions
 
 ---
 
@@ -24,9 +22,7 @@ Is a desktop app for keeping track of where people live. I created this due to w
 
 Is an advice site for other amatuer fighters. I compile advice and helpful content and occasionally post on my thoughts and training.
 
-#### Tech Used
-
-[Payload CMS](https://payloadcms.com/), [Northflank](https://northflank.com/), [Netlify](https://netlify.com/), Express, MongoDB, NoSQL, SvelteKit, TypeScript, Vite, CSS, PNPM, Cargo, ESLint, Prettier, JavaScript, ESM, GitHub, GitHub Actions
+_Tech Used_: [Payload CMS](https://payloadcms.com/), [Northflank](https://northflank.com/), [Netlify](https://netlify.com/), Express, MongoDB, NoSQL, SvelteKit, TypeScript, Vite, CSS, PNPM, Cargo, ESLint, Prettier, JavaScript, ESM, GitHub, GitHub Actions
 
 ---
 
@@ -34,9 +30,7 @@ Is an advice site for other amatuer fighters. I compile advice and helpful conte
 
 Is my exploration into a mono-repo with multiple dependancies. It contains several repositories including (but not limited to) a small Astro app ([barbajoe.tech](https://barbajoe.tech/)), an [Astro Library Staging page](https://lib-staging.barbajoe.tech/), a pure [CSS Library](https://github.com/Barbacoa08/barbajoe/tree/main/src/packages/css-lib), a [Svelte Library](https://github.com/Barbacoa08/barbajoe/tree/main/src/packages/svelte-lib), and a [React Library](https://github.com/Barbacoa08/barbajoe/tree/main/src/packages/react-lib). All of which have a GitHub Action that auto-publishes them whenever their version is updated. I utilize the libraries in all of my new projects and regularly update them as I find a reason to.
 
-#### Tech Used
-
-[Astro](https://astro.build/), Netlify, ReactJS, Svelte, SvelteKit, TypeScript, Vite, CSS, PNPM, ESLint, Prettier, JavaScript, ESM, GitHub, GitHub Actions
+_Tech Used_: [Astro](https://astro.build/), Netlify, ReactJS, Svelte, SvelteKit, TypeScript, Vite, CSS, PNPM, ESLint, Prettier, JavaScript, ESM, GitHub, GitHub Actions
 
 ---
 
@@ -44,9 +38,7 @@ Is my exploration into a mono-repo with multiple dependancies. It contains sever
 
 An idea I had about being able to more easily express your emotions.
 
-#### Tech Used
-
-ReactJS, [Charka UI](https://chakra-ui.com/), Hasura, PostgreSQL, Netlify, TypeScript, react-scripts, CSS, Yarn, ESLint, Prettier, JavaScript, ESM, GitHub, GitHub Actions
+_Tech Used_: ReactJS, [Charka UI](https://chakra-ui.com/), Hasura, PostgreSQL, Netlify, TypeScript, react-scripts, CSS, Yarn, ESLint, Prettier, JavaScript, ESM, GitHub, GitHub Actions
 
 ---
 
