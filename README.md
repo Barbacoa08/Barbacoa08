@@ -1,10 +1,10 @@
-# Barbacoa08 (barbajoe)
+# barbajoe
 
-I'm also [joe-s-avaya](https://github.com/joe-s-avaya) and one of the primary contirbutors for several of [Avaya's UI Libraries](https://github.com/avaya-dux/), but most notably, the [Neo React Library](https://github.com/avaya-dux/neo-react-library), which is an Accessible React Library for reusable components.
+I'm also [joe-s-avaya](https://github.com/joe-s-avaya) and one of the primary contributors for several of [Avaya's UI Libraries](https://github.com/avaya-dux/), but most notably, the [Neo React Library](https://github.com/avaya-dux/neo-react-library), which is an Accessible React Library for reusable components.
 
 ## skills
 
-Svelte(Kit), TypeScript, and React are where the majority of my skills lie, but I enjoy learning about new technologies and have been exploring Astro, Tauri, Rust, Vite, Vitest (and others) at the time of this writing. I am also passionate about usability and accessbility, and am in the process of acquiring an Accessibility Certification through [the Accessibility Association](https://www.accessibilityassociation.org/s/certification).
+Svelte(Kit), TypeScript, and React are where the majority of my skills lie. I enjoy learning about new technologies and have, at the time of this writing, been exploring Astro, Tauri, Rust, Vite, Vitest, and Ionic's Capacitor. I am also passionate about usability and accessbility, and am in the process of acquiring an Accessibility Certification through [the Accessibility Association](https://www.accessibilityassociation.org/s/certification).
 
 ---
 
@@ -12,7 +12,7 @@ Svelte(Kit), TypeScript, and React are where the majority of my skills lie, but 
 
 ### Person to Place ([GitHub link](https://github.com/barbacoa08/person-to-place/))
 
-Is a desktop app for keeping track of where people live. I created this due to working for a global company and I couldn't find any other solution that did quite what I wanted. Plus, I wanted an excuse to play with [Tauri](https://tauri.app/).
+This is a desktop app for keeping track of where people live. I created this due to working for a global company and being unable to find any other solution that did what I wanted. Plus, I wanted an excuse to play with [Tauri](https://tauri.app/).
 
 _Tech Used_: [Tauri](https://tauri.app/), Rust, SvelteKit, TypeScript, Vite, CSS, PNPM, Cargo, ESLint, Prettier, JavaScript, ESM, GitHub, GitHub Actions
 
@@ -20,7 +20,7 @@ _Tech Used_: [Tauri](https://tauri.app/), Rust, SvelteKit, TypeScript, Vite, CSS
 
 ### Fighter Advice ([GitHub Link](https://github.com/Barbacoa08/fighter-advice), [Live Site](https://fighter-advice.barbajoe.tech/), [CMS](https://cms-fighter-advice.barbajoe.tech/admin))
 
-Is an advice site for other amatuer fighters. I compile advice and helpful content and occasionally post on my thoughts and training.
+This is an advice site for amateur fighters. I compile advice and helpful content and occasionally post my thoughts about training and the life of a fighter.
 
 _Tech Used_: [Payload CMS](https://payloadcms.com/), [Northflank](https://northflank.com/), [Netlify](https://netlify.com/), Express, MongoDB, NoSQL, SvelteKit, TypeScript, Vite, CSS, PNPM, Cargo, ESLint, Prettier, JavaScript, ESM, GitHub, GitHub Actions
 
@@ -28,7 +28,7 @@ _Tech Used_: [Payload CMS](https://payloadcms.com/), [Northflank](https://northf
 
 ### barbajoe ([GitHub Link](https://github.com/Barbacoa08/barbajoe), [Live Site](https://barbajoe.tech/))
 
-Is my exploration into a mono-repo with multiple dependancies. It contains several repositories including (but not limited to) a small Astro app ([barbajoe.tech](https://barbajoe.tech/)), an [Astro Library Staging page](https://lib-staging.barbajoe.tech/), a pure [CSS Library](https://github.com/Barbacoa08/barbajoe/tree/main/src/packages/css-lib), a [Svelte Library](https://github.com/Barbacoa08/barbajoe/tree/main/src/packages/svelte-lib), and a [React Library](https://github.com/Barbacoa08/barbajoe/tree/main/src/packages/react-lib). All of which have a GitHub Action that auto-publishes them whenever their version is updated. I utilize the libraries in all of my new projects and regularly update them as I find a reason to.
+This is my exploration into a mono-repo with multiple dependencies. It contains several repositories including, but not limited to, a small Astro app ([barbajoe.tech](https://barbajoe.tech/)), an [Astro Library Staging page](https://lib-staging.barbajoe.tech/), a pure [CSS Library](https://github.com/Barbacoa08/barbajoe/tree/main/src/packages/css-lib), a [Svelte Library](https://github.com/Barbacoa08/barbajoe/tree/main/src/packages/svelte-lib), and a [React Library](https://github.com/Barbacoa08/barbajoe/tree/main/src/packages/react-lib). All of these have a GitHub Action that auto-publishes them whenever their version is updated. I utilize the libraries in all of my new projects and regularly update them as I find a reason to.
 
 _Tech Used_: [Astro](https://astro.build/), Netlify, ReactJS, Svelte, SvelteKit, TypeScript, Vite, CSS, PNPM, ESLint, Prettier, JavaScript, ESM, GitHub, GitHub Actions
 
@@ -36,7 +36,7 @@ _Tech Used_: [Astro](https://astro.build/), Netlify, ReactJS, Svelte, SvelteKit,
 
 ### Cat Emotions ([GitHub Link](https://github.com/Barbacoa08/cat-emotions), [Live Site](https://cat-emotions.barbajoe.tech/))
 
-An idea I had about being able to more easily express your emotions.
+This is the outcome of me learning how to clearly express my emotions. Because a picture is worth a thousand words, and cats are exceptionally expressive. The app also allows you to track your emotions over time, and having that history is something that I found helpful to look back on.
 
 _Tech Used_: ReactJS, [Charka UI](https://chakra-ui.com/), Hasura, PostgreSQL, Netlify, TypeScript, react-scripts, CSS, Yarn, ESLint, Prettier, JavaScript, ESM, GitHub, GitHub Actions
 
