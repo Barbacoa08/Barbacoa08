@@ -2,6 +2,8 @@
 
 I'm also [joe-s-avaya](https://github.com/joe-s-avaya) and one of the primary contributors for several of [Avaya's UI Libraries](https://github.com/avaya-dux/), but most notably, the [Neo React Library](https://github.com/avaya-dux/neo-react-library), which is an Accessible React Library for reusable components.
 
+You can see a longer description of what I've been up to on my [resume](https://rxresu.me/barbajoe/joe-sebast-2024).
+
 ## skills
 
 Svelte(Kit), TypeScript, and React are where the majority of my skills lie. I enjoy learning about new technologies and have, at the time of this writing, been exploring Astro, Tauri, Rust, Vite, Vitest, and Ionic's Capacitor. I am also passionate about usability and accessbility, and am in the process of acquiring an Accessibility Certification through [the Accessibility Association](https://www.accessibilityassociation.org/s/certification).
@@ -9,6 +11,16 @@ Svelte(Kit), TypeScript, and React are where the majority of my skills lie. I en
 ---
 
 ## recent projects
+
+### Tech Blog ([GitHub Link](https://github.com/Barbacoa08/tech-blog), [Live Site](https://blog.barbajoe.tech/))
+
+I started a blog! 🎉
+
+The first step to greatness I'm told. I'm leveraging several technolgies that I'm already familiar with, such as SvelteKit and PayloadCMS. I'm keeping it bare-bones at the start and also using this as a reason to centralize shared components into my [Svelte Library](https://github.com/Barbacoa08/barbajoe/tree/main/src/packages/svelte-lib).
+
+_Tech Used_: SvelteKit, PayloadCMS, and the usual suspects
+
+---
 
 ### Person to Place ([GitHub link](https://github.com/barbacoa08/person-to-place/))
 
